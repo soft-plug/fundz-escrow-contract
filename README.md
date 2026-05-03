@@ -1,7 +1,7 @@
 # Fundz Escrow — Soroban Smart Contract
 
 Rust/Soroban smart contract for the Fundz decentralized escrow application on the Stellar Network.
-# Fundz Escrow
+# 
 
 > Trustless, permissionless escrow infrastructure on the Stellar Network.
 > Built with Soroban smart contracts, a Node.js indexing backend, and a
