@@ -1,0 +1,22 @@
+# Rust build artifacts
+target/
+
+# Cargo lock is committed for binaries, kept here for reproducibility
+# Cargo.lock  ← intentionally NOT ignored for contracts
+
+# Test snapshots (optional — remove this line to track them)
+test_snapshots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Deployed contract IDs / secrets
+.env
+deploy.json
